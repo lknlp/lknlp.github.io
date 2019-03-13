@@ -39,6 +39,7 @@ Sinhala and Tamil
 * [Sinhala TTS](http://openslr.org/30/)
 * [SinMin Dataset](http://ix.cs.uoregon.edu/~nisansa/#DataSets)
 * [Language Technology Research Lab University of Colombo School of Computing](http://ltrl.ucsc.lk/download-3/)
+* [Small Sinhala newes corpus](https://osf.io/tdb84/)
 
 #### Tools
 * [Machine Translation System for Sinhala -Tamil Language Pair](https://ucsc.cmb.ac.lk/machine-translation-system-sinhala-tamil-language-pair/)
