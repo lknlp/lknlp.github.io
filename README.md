@@ -43,4 +43,4 @@ Sinhala and Tamil
 #### Tools
 * [Machine Translation System for Sinhala -Tamil Language Pair](https://ucsc.cmb.ac.lk/machine-translation-system-sinhala-tamil-language-pair/)
 * [MIDAS-NMT-English-Tamil](https://github.com/precog-iiitd/MIDAS-NMT-English-Tamil)
-*[Sentiment Analysis of Sinhala News Comments](https://github.com/theisuru/sentiment-tagger)
+* [Sentiment Analysis of Sinhala News Comments](https://github.com/theisuru/sentiment-tagger)
