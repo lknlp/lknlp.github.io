@@ -20,6 +20,7 @@ Sinhala and Tamil
 #### To do
 * Resource templates
 * Structuring
+* Update website
 
 ## Resources
 
