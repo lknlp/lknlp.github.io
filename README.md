@@ -46,3 +46,9 @@ Sinhala and Tamil
 * [MIDAS-NMT-English-Tamil](https://github.com/precog-iiitd/MIDAS-NMT-English-Tamil)
 * [Sentiment Analysis of Sinhala News Comments](https://github.com/theisuru/sentiment-tagger)
 * [National Langauges Processing Centre (UoM) on Github](https://github.com/cnlpuom)
+
+### Research Groups
+* [Local Languages Working Group by LK Domain Registry](https://www.language.lk/en/)
+* [NLP gruop of UoM](https://www.mrt.ac.lk/web/nlp)
+* [Language Technology Research Laboratory (LTRL) of UCSC](http://ltrl.ucsc.lk/)
+
