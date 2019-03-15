@@ -46,6 +46,7 @@ Sinhala and Tamil
 * [MIDAS-NMT-English-Tamil](https://github.com/precog-iiitd/MIDAS-NMT-English-Tamil)
 * [Sentiment Analysis of Sinhala News Comments](https://github.com/theisuru/sentiment-tagger)
 * [National Langauges Processing Centre (UoM) on Github](https://github.com/cnlpuom)
+* [Sinhala Sentence Similarity Measurement](https://github.com/suralk/SinhalaSentenceSimilarityMeasurement)
 
 ### Research Groups
 * [Local Languages Working Group by LK Domain Registry](https://www.language.lk/en/)
