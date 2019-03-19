@@ -41,6 +41,7 @@ Sinhala and Tamil
 * [Language Technology Research Lab University of Colombo School of Computing](http://ltrl.ucsc.lk/download-3/)
 * [Small Sinhala newes corpus](https://osf.io/tdb84/)
 * [Ananya Sinhala NER Dataset](https://github.com/suralk/AnanyaSinhalaNERDataset)
+* [Tamil-Sinhala-Emotion-Analysis](https://github.com/Jenarthanan14/Tamil-Sinhala-Emotion-Analysis)
 
 #### Tools
 * [Machine Translation System for Sinhala -Tamil Language Pair](https://ucsc.cmb.ac.lk/machine-translation-system-sinhala-tamil-language-pair/)
