@@ -43,7 +43,8 @@ Sinhala and Tamil
 * [Ananya Sinhala NER Dataset](https://github.com/suralk/AnanyaSinhalaNERDataset)
 * [Tamil-Sinhala-Emotion-Analysis](https://github.com/Jenarthanan14/Tamil-Sinhala-Emotion-Analysis)
 * Fasttext bulit by Facebook using wikipedia. 
-    * Sinhala [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.si.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.si.300.vec.gz)
+    * Sinhala: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.si.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.si.300.vec.gz)
+    * Tamil: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ta.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ta.300.vec.gz)
 
 #### Tools
 * [Machine Translation System for Sinhala -Tamil Language Pair](https://ucsc.cmb.ac.lk/machine-translation-system-sinhala-tamil-language-pair/)
