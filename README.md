@@ -15,7 +15,8 @@ Sinhala and Tamil
 * Tools (or links to proposals) for crowdsourced data collection
 
 #### How to contribute
-* Send a pull request with your changes or send an email to lklangs2019@gmail.com
+* Send a pull request to [lklangs.github.io](https://github.com/lklangs/lklangs.github.io) with your changes or send an email to lklangs2019@gmail.com
+* Use [Browserling tool](https://www.browserling.com/tools/markdown-to-html) to generate HTML from `README.md`.
 
 #### To do
 * Resource templates
