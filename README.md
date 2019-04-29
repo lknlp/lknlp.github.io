@@ -26,6 +26,7 @@ Sinhala and Tamil
 
 #### Publications 
 
+* [Natural Language Processing for Government: Problems and Potential](https://lirneasia.net/2019/04/natural-language-processing-for-government-problems-and-potential/) 2019
 * [Comparison Between Performance of Various Database Systems for Implementing a Language Corpus](https://www.researchgate.net/publication/277475828_Comparison_Between_Performance_of_Various_Database_Systems_for_Implementing_a_Language_Corpus) 2015
 * [Implementing a Corpus for Sinhala Language](https://www.researchgate.net/publication/306264442_Implementing_a_Corpus_for_Sinhala_Language) 2015
 * [Sinhala Text Classification: Observations from the Perspective of a Resource Poor Language](https://www.researchgate.net/publication/329908360_Sinhala_Text_Classification_Observations_from_the_Perspective_of_a_Resource_Poor_Language) 2015
@@ -58,4 +59,3 @@ Sinhala and Tamil
 * [Local Languages Working Group by LK Domain Registry](https://www.language.lk/en/)
 * [NLP gruop of UoM](https://www.mrt.ac.lk/web/nlp)
 * [Language Technology Research Laboratory (LTRL) of UCSC](http://ltrl.ucsc.lk/)
-
