@@ -55,7 +55,7 @@ Sinhala and Tamil
 * [National Langauges Processing Centre (UoM) on Github](https://github.com/cnlpuom)
 * [Sinhala Sentence Similarity Measurement](https://github.com/suralk/SinhalaSentenceSimilarityMeasurement)
 * [Tamil Emotion Tweet Scraper](https://github.com/Jenarthanan14/Tamil-Sinhala-Emotion-Analysis/tree/master/TamilEmotionTweetScraper)
-* [Morphological analyser for Sinhala nuons (SinLing)](https://github.com/ysenarath/SinLing)
+* [Morphological analyser and tokenizer for Sinhala nuons (SinLing)](https://github.com/ysenarath/SinLing)
 
 #### Research Groups
 * [Local Languages Working Group by LK Domain Registry](https://www.language.lk/en/)
