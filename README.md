@@ -47,6 +47,7 @@ Sinhala and Tamil
 * Fasttext bulit by Facebook using wikipedia. 
     * Sinhala: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.si.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.si.300.vec.gz)
     * Tamil: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ta.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ta.300.vec.gz)
+ 
 
 #### Tools
 * [Machine Translation System for Sinhala -Tamil Language Pair](https://ucsc.cmb.ac.lk/machine-translation-system-sinhala-tamil-language-pair/)
@@ -56,6 +57,10 @@ Sinhala and Tamil
 * [Sinhala Sentence Similarity Measurement](https://github.com/suralk/SinhalaSentenceSimilarityMeasurement)
 * [Tamil Emotion Tweet Scraper](https://github.com/Jenarthanan14/Tamil-Sinhala-Emotion-Analysis/tree/master/TamilEmotionTweetScraper)
 * [Morphological analyser and tokenizer for Sinhala nuons (SinLing)](https://github.com/ysenarath/SinLing)
+* [Sinhala-and-Tamil-NER](https://github.com/nlpc-uom/Sinhala-and-Tamil-NER)
+* [Tamil-Tokeniser](https://github.com/nlpc-uom/Tamil-Tokeniser)
+* [Sinhala-Tokeniser](https://github.com/ysenarath/sinling/tree/master/bin)
+
 
 #### Research Groups
 * [Local Languages Working Group by LK Domain Registry](https://www.language.lk/en/)
