@@ -47,6 +47,8 @@ Sinhala and Tamil
 * Fasttext bulit by Facebook using wikipedia. 
     * Sinhala: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.si.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.si.300.vec.gz)
     * Tamil: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ta.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ta.300.vec.gz)
+ * [Sinhala-POS-Data](https://github.com/nlpc-uom/Sinhala-POS-Data)
+ * [Sinhala-Tamil-Aligned-Parallel-Corpus](https://github.com/nlpc-uom/Sinhala-Tamil-Aligned-Parallel-Corpus)
  
 
 #### Tools
@@ -60,6 +62,7 @@ Sinhala and Tamil
 * [Sinhala-and-Tamil-NER](https://github.com/nlpc-uom/Sinhala-and-Tamil-NER)
 * [Tamil-Tokeniser](https://github.com/nlpc-uom/Tamil-Tokeniser)
 * [Sinhala-Tokeniser](https://github.com/ysenarath/sinling/tree/master/bin)
+* [Sinhala skipgram model](https://github.com/theisuru/sentiment-tagger/tree/master/corpus/analyzed/saved_models)
 
 
 #### Research Groups
