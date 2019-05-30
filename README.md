@@ -47,7 +47,7 @@ Sinhala and Tamil
 * Fasttext bulit by Facebook using wikipedia. 
     * Sinhala: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.si.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.si.300.vec.gz)
     * Tamil: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ta.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ta.300.vec.gz)
- * Fasttext bulit by UoM using wikipedia, News, and official government documents
+ * Fasttext bulit by CSE, UoM using wikipedia, News, and official government documents
     * Sinhala: [bin](https://dms.mrt.ac.lk/index.php/s/4CtG8JoNGcdTtxe/download?path=%2F&files=ftext_si_18-02-07-model.bin)
     * Tamil: [bin](https://dms.mrt.ac.lk/index.php/s/4CtG8JoNGcdTtxe/download?path=%2F&files=ftext_ti_18-02-07-model.bin)
  * [Sinhala-POS-Data](https://github.com/nlpc-uom/Sinhala-POS-Data)
