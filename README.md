@@ -54,6 +54,8 @@ Sinhala and Tamil
  * Sinhala-English parallel corpora
     * [Subtitle pairs (600k+)](http://bit.ly/2KsFQxm) 
     * Sentences pairs (45k+): [GNOME](http://bit.ly/2Z8q0fo), [KDE](http://bit.ly/2WLY6bI) , and [Ubuntu](http://bit.ly/2wLVZGt)  
+ * [Filtered Sinhala Wikipedia (155k+ sentences)](http://bit.ly/2EQZ7oM)
+ * [Sinhala common crawl (5m+ sentences)](http://bit.ly/2ZaQFZo)
  * [Sinhala-POS-Data](https://github.com/nlpc-uom/Sinhala-POS-Data)
  * [Sinhala-Tamil-Aligned-Parallel-Corpus](https://github.com/nlpc-uom/Sinhala-Tamil-Aligned-Parallel-Corpus)
  
