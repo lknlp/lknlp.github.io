@@ -51,6 +51,9 @@ Sinhala and Tamil
  * Fasttext bulit by CSE, UoM using wikipedia, News, and official government documents
     * Sinhala: [bin](https://dms.mrt.ac.lk/index.php/s/4CtG8JoNGcdTtxe/download?path=%2F&files=ftext_si_18-02-07-model.bin)
     * Tamil: [bin](https://dms.mrt.ac.lk/index.php/s/4CtG8JoNGcdTtxe/download?path=%2F&files=ftext_ti_18-02-07-model.bin)
+ * Sinhala-English parallel corpora
+    * [Subtitle pairs (600k+)](http://bit.ly/2KsFQxm) 
+    * Sentences pairs (45k+): [GNOME](http://bit.ly/2Z8q0fo), [KDE](http://bit.ly/2WLY6bI) , and [Ubuntu](http://bit.ly/2wLVZGt)  
  * [Sinhala-POS-Data](https://github.com/nlpc-uom/Sinhala-POS-Data)
  * [Sinhala-Tamil-Aligned-Parallel-Corpus](https://github.com/nlpc-uom/Sinhala-Tamil-Aligned-Parallel-Corpus)
  
