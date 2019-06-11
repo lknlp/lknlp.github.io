@@ -27,6 +27,7 @@ Sinhala and Tamil
 
 #### Publications 
 
+* [Survey on Publicly Available Sinhala Natural Language Processing Tools and Research](https://arxiv.org/pdf/1906.02358.pdf) 2019
 * [Natural Language Processing for Government: Problems and Potential](https://lirneasia.net/2019/04/natural-language-processing-for-government-problems-and-potential/) 2019
 * [Two New Evaluation Datasets for Low-Resource Machine Translation: Nepali-English and Sinhala-English](https://arxiv.org/abs/1902.01382)
 * [Comparison Between Performance of Various Database Systems for Implementing a Language Corpus](https://www.researchgate.net/publication/277475828_Comparison_Between_Performance_of_Various_Database_Systems_for_Implementing_a_Language_Corpus) 2015
