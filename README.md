@@ -59,7 +59,11 @@ Sinhala and Tamil
  * [Sinhala common crawl (5m+ sentences)](http://bit.ly/2ZaQFZo)
  * [Sinhala-POS-Data](https://github.com/nlpc-uom/Sinhala-POS-Data)
  * [Sinhala-Tamil-Aligned-Parallel-Corpus](https://github.com/nlpc-uom/Sinhala-Tamil-Aligned-Parallel-Corpus)
- 
+ * [Sinhala Lexicon](https://github.com/google/language-resources/blob/master/si/data/lexicon.tsv)
+ * [Sinhala TTS Textnorm grammer](https://github.com/google/language-resources/tree/master/si/textnorm)
+ * [Sinhala TTS Phonology](https://github.com/google/language-resources/blob/master/si/festvox/ipa_phonology.json)
+ * [Sinhala G2P](https://github.com/google/language-resources/blob/master/si/si-si_FONIPA.txt)
+
 
 #### Tools
 * [Machine Translation System for Sinhala -Tamil Language Pair](https://ucsc.cmb.ac.lk/machine-translation-system-sinhala-tamil-language-pair/)
@@ -73,6 +77,8 @@ Sinhala and Tamil
 * [Tamil-Tokeniser](https://github.com/nlpc-uom/Tamil-Tokeniser)
 * [Sinhala-Tokeniser](https://github.com/ysenarath/sinling/tree/master/bin)
 * [Sinhala skipgram model](https://github.com/theisuru/sentiment-tagger/tree/master/corpus/analyzed/saved_models)
+* [Sinhala TTS Recipe](https://github.com/google/language-resources/tree/master/si/festvox)
+* [Sinhala ASR Recipe](https://github.com/google/asr-recipes)
 
 
 #### Research Groups
