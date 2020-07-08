@@ -67,6 +67,8 @@ Sinhala and Tamil
  * [Sinhala TTS Textnorm grammer](https://github.com/google/language-resources/tree/master/si/textnorm)
  * [Sinhala TTS Phonology](https://github.com/google/language-resources/blob/master/si/festvox/ipa_phonology.json)
  * [Sinhala G2P](https://github.com/google/language-resources/blob/master/si/si-si_FONIPA.txt)
+ * [Google Dakshina Dataset](https://github.com/google-research-datasets/dakshina) for 12 South Asian languages including Sinhala and Tamil.
+ 
 
 
 #### Tools
