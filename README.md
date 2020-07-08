@@ -50,6 +50,8 @@ Sinhala and Tamil
 * [Small Sinhala newes corpus](https://osf.io/tdb84/)
 * [Ananya Sinhala NER Dataset](https://github.com/suralk/AnanyaSinhalaNERDataset)
 * [Tamil-Sinhala-Emotion-Analysis](https://github.com/Jenarthanan14/Tamil-Sinhala-Emotion-Analysis)
+* [Google Dakshina Dataset](https://github.com/google-research-datasets/dakshina) for 12 South Asian languages including Sinhala and Tamil
+
 * Fasttext bulit by Facebook using wikipedia. 
     * Sinhala: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.si.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.si.300.vec.gz)
     * Tamil: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ta.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ta.300.vec.gz)
@@ -67,7 +69,6 @@ Sinhala and Tamil
  * [Sinhala TTS Textnorm grammer](https://github.com/google/language-resources/tree/master/si/textnorm)
  * [Sinhala TTS Phonology](https://github.com/google/language-resources/blob/master/si/festvox/ipa_phonology.json)
  * [Sinhala G2P](https://github.com/google/language-resources/blob/master/si/si-si_FONIPA.txt)
- * [Google Dakshina Dataset](https://github.com/google-research-datasets/dakshina) for 12 South Asian languages including Sinhala and Tamil.
  
 
 
