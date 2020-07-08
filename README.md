@@ -27,6 +27,7 @@ Sinhala and Tamil
 
 #### Publications 
 
+* [TICO-19: the Translation Initiative for COvid-19](https://tico-19.github.io/data/paper/ticopaper.pdf) 2020
 * [The FLoRes Evaluation Datasets for Low-Resource Machine Translation: Nepali-English and Sinhala-English](https://www.aclweb.org/anthology/D19-1632) 2019
 * [Survey on Publicly Available Sinhala Natural Language Processing Tools and Research](https://arxiv.org/pdf/1906.02358.pdf) 2019
 * [Natural Language Processing for Government: Problems and Potential](https://lirneasia.net/2019/04/natural-language-processing-for-government-problems-and-potential/) 2019
@@ -40,6 +41,7 @@ Sinhala and Tamil
 * [Corpus-based Sinhala Lexicon](https://pdfs.semanticscholar.org/9cba/8533b35dbfc3db35e30b801c778377fe0817.pdf) 2009
 
 #### Datasets
+* [Translation Initiative for COVID-19 (English-Sinhala)](https://tico-19.github.io/terminologies.html)
 * [Facebook Low Resource MT Benchmark (FLoRes)](https://github.com/facebookresearch/flores)
 * [Large Sinhala ASR training data set](http://openslr.org/52)
 * [Sinhala TTS](http://openslr.org/30/)
