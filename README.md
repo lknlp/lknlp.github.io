@@ -51,6 +51,9 @@ Sinhala and Tamil
 * [Ananya Sinhala NER Dataset](https://github.com/suralk/AnanyaSinhalaNERDataset)
 * [Tamil-Sinhala-Emotion-Analysis](https://github.com/Jenarthanan14/Tamil-Sinhala-Emotion-Analysis)
 * [Google Dakshina Dataset](https://github.com/google-research-datasets/dakshina) for 12 South Asian languages including Sinhala and Tamil
+* [Databricks Dolly 15k Sinhala Dataset](https://huggingface.co/datasets/Suchinthana/databricks-dolly-15k-sinhala) a machine translated version of Databricks 15k dataset.
+* [Sinhala Question Answering Dataset 1k](https://huggingface.co/datasets/Suchinthana/Sinhala-QA-Translate) a Sinhala QA dataset with English translations.
+* [Sinhala Wikipedia 202306](https://huggingface.co/datasets/Suchinthana/si-wikipedia) Sinhala wikipedia according to 2023 June dump in huggingface datasets format.
 
 * Fasttext bulit by Facebook using wikipedia. 
     * Sinhala: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.si.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.si.300.vec.gz)
