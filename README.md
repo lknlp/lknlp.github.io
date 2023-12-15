@@ -89,6 +89,8 @@ Sinhala and Tamil
 * [Sinhala skipgram model](https://github.com/theisuru/sentiment-tagger/tree/master/corpus/analyzed/saved_models)
 * [Sinhala TTS Recipe](https://github.com/google/language-resources/tree/master/si/festvox)
 * [Sinhala ASR Recipe](https://github.com/google/asr-recipes)
+* [Stanza - Python NLP package for liguistic analysis](https://stanfordnlp.github.io/stanza/index.html) - Supports multiple languages including tamil
+
 
 
 #### Research Groups
