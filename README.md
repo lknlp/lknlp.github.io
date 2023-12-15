@@ -45,7 +45,7 @@ Sinhala and Tamil
 * [Facebook Low Resource MT Benchmark (FLoRes)](https://github.com/facebookresearch/flores)
 * [Large Sinhala ASR training data set](http://openslr.org/52)
 * [Sinhala TTS](http://openslr.org/30/)
-* [SinMin Dataset](http://ix.cs.uoregon.edu/~nisansa/#DataSets)
+* [SinMin Dataset](https://osf.io/a5quv/) - [more info](https://nisansads.staff.uom.lk/#DataSets>)
 * [Language Technology Research Lab University of Colombo School of Computing](http://ltrl.ucsc.lk/download-3/)
 * [Small Sinhala newes corpus](https://osf.io/tdb84/)
 * [Ananya Sinhala NER Dataset](https://github.com/suralk/AnanyaSinhalaNERDataset)
@@ -90,7 +90,6 @@ Sinhala and Tamil
 * [Sinhala TTS Recipe](https://github.com/google/language-resources/tree/master/si/festvox)
 * [Sinhala ASR Recipe](https://github.com/google/asr-recipes)
 * [Stanza - Python NLP package for liguistic analysis](https://stanfordnlp.github.io/stanza/index.html) - Supports multiple languages including tamil
-
 
 
 #### Research Groups
