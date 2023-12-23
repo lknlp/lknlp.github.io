@@ -45,7 +45,7 @@ Sinhala and Tamil
 * [Facebook Low Resource MT Benchmark (FLoRes)](https://github.com/facebookresearch/flores)
 * [Large Sinhala ASR training data set](http://openslr.org/52)
 * [Sinhala TTS](http://openslr.org/30/)
-* [SinMin Dataset](http://ix.cs.uoregon.edu/~nisansa/#DataSets)
+* [SinMin Dataset](https://osf.io/a5quv/) - [more info](https://nisansads.staff.uom.lk/#DataSets>)
 * [Language Technology Research Lab University of Colombo School of Computing](http://ltrl.ucsc.lk/download-3/)
 * [Small Sinhala newes corpus](https://osf.io/tdb84/)
 * [Ananya Sinhala NER Dataset](https://github.com/suralk/AnanyaSinhalaNERDataset)
@@ -54,25 +54,24 @@ Sinhala and Tamil
 * [Databricks Dolly 15k Sinhala Dataset](https://huggingface.co/datasets/Suchinthana/databricks-dolly-15k-sinhala) a machine translated version of Databricks 15k dataset.
 * [Sinhala Question Answering Dataset 1k](https://huggingface.co/datasets/Suchinthana/Sinhala-QA-Translate) a Sinhala QA dataset with English translations.
 * [Sinhala Wikipedia 202306](https://huggingface.co/datasets/Suchinthana/si-wikipedia) Sinhala wikipedia according to 2023 June dump in huggingface datasets format.
+* Fasttext bulit by Facebook using wikipedia.
+  * Sinhala: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.si.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.si.300.vec.gz)
+  * Tamil: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ta.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ta.300.vec.gz)
+* Fasttext bulit by CSE, UoM using wikipedia, News, and official government documents
+  * Sinhala: [bin](https://dms.mrt.ac.lk/index.php/s/4CtG8JoNGcdTtxe/download?path=%2F&files=ftext_si_18-02-07-model.bin)
+  * Tamil: [bin](https://dms.mrt.ac.lk/index.php/s/4CtG8JoNGcdTtxe/download?path=%2F&files=ftext_ti_18-02-07-model.bin)
+* Sinhala-English parallel corpora
+  * [Subtitle pairs (600k+)](http://bit.ly/2KsFQxm)
+  * Sentences pairs (45k+): [GNOME](http://bit.ly/2Z8q0fo), [KDE](http://bit.ly/2WLY6bI), and [Ubuntu](http://bit.ly/2wLVZGt)  
+* [Filtered Sinhala Wikipedia (155k+ sentences)](http://bit.ly/2EQZ7oM)
+* [Sinhala common crawl (5m+ sentences)](http://bit.ly/2ZaQFZo)
+* [Sinhala-POS-Data](https://github.com/nlpc-uom/Sinhala-POS-Data)
+* [Sinhala-Tamil-Aligned-Parallel-Corpus](https://github.com/nlpc-uom/Sinhala-Tamil-Aligned-Parallel-Corpus)
+* [Sinhala Lexicon](https://github.com/google/language-resources/blob/master/si/data/lexicon.tsv)
+* [Sinhala TTS Textnorm grammer](https://github.com/google/language-resources/tree/master/si/textnorm)
+* [Sinhala TTS Phonology](https://github.com/google/language-resources/blob/master/si/festvox/ipa_phonology.json)
+* [Sinhala G2P](https://github.com/google/language-resources/blob/master/si/si-si_FONIPA.txt)
 
-* Fasttext bulit by Facebook using wikipedia. 
-    * Sinhala: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.si.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.si.300.vec.gz)
-    * Tamil: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ta.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ta.300.vec.gz)
- * Fasttext bulit by CSE, UoM using wikipedia, News, and official government documents
-    * Sinhala: [bin](https://dms.mrt.ac.lk/index.php/s/4CtG8JoNGcdTtxe/download?path=%2F&files=ftext_si_18-02-07-model.bin)
-    * Tamil: [bin](https://dms.mrt.ac.lk/index.php/s/4CtG8JoNGcdTtxe/download?path=%2F&files=ftext_ti_18-02-07-model.bin)
- * Sinhala-English parallel corpora
-    * [Subtitle pairs (600k+)](http://bit.ly/2KsFQxm) 
-    * Sentences pairs (45k+): [GNOME](http://bit.ly/2Z8q0fo), [KDE](http://bit.ly/2WLY6bI) , and [Ubuntu](http://bit.ly/2wLVZGt)  
- * [Filtered Sinhala Wikipedia (155k+ sentences)](http://bit.ly/2EQZ7oM)
- * [Sinhala common crawl (5m+ sentences)](http://bit.ly/2ZaQFZo)
- * [Sinhala-POS-Data](https://github.com/nlpc-uom/Sinhala-POS-Data)
- * [Sinhala-Tamil-Aligned-Parallel-Corpus](https://github.com/nlpc-uom/Sinhala-Tamil-Aligned-Parallel-Corpus)
- * [Sinhala Lexicon](https://github.com/google/language-resources/blob/master/si/data/lexicon.tsv)
- * [Sinhala TTS Textnorm grammer](https://github.com/google/language-resources/tree/master/si/textnorm)
- * [Sinhala TTS Phonology](https://github.com/google/language-resources/blob/master/si/festvox/ipa_phonology.json)
- * [Sinhala G2P](https://github.com/google/language-resources/blob/master/si/si-si_FONIPA.txt)
- 
 
 
 #### Tools
@@ -82,13 +81,14 @@ Sinhala and Tamil
 * [National Langauges Processing Centre (UoM) on Github](https://github.com/cnlpuom)
 * [Sinhala Sentence Similarity Measurement](https://github.com/suralk/SinhalaSentenceSimilarityMeasurement)
 * [Tamil Emotion Tweet Scraper](https://github.com/Jenarthanan14/Tamil-Sinhala-Emotion-Analysis/tree/master/TamilEmotionTweetScraper)
-* [Morphological analyser and tokenizer for Sinhala nuons (SinLing)](https://github.com/ysenarath/SinLing)
+* [Morphological analyser and tokenizer for Sinhala nouns (SinLing)](https://github.com/ysenarath/SinLing)
 * [Sinhala-and-Tamil-NER](https://github.com/nlpc-uom/Sinhala-and-Tamil-NER)
 * [Tamil-Tokeniser](https://github.com/nlpc-uom/Tamil-Tokeniser)
 * [Sinhala-Tokeniser](https://github.com/ysenarath/sinling/tree/master/bin)
 * [Sinhala skipgram model](https://github.com/theisuru/sentiment-tagger/tree/master/corpus/analyzed/saved_models)
 * [Sinhala TTS Recipe](https://github.com/google/language-resources/tree/master/si/festvox)
 * [Sinhala ASR Recipe](https://github.com/google/asr-recipes)
+* [Stanza - Python NLP package for liguistic analysis](https://stanfordnlp.github.io/stanza/index.html) - Supports multiple languages including tamil
 
 
 #### Research Groups
